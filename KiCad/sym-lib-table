@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name STM32MP1-cache)(type Legacy)(uri ${KIPRJMOD}/STM32MP1-cache.lib)(options "")(descr ""))
+  (lib (name STM32MP151DAC1)(type Legacy)(uri C:/Users/rohan/Downloads/LIB_STM32MP151DAC1/STM32MP151DAC1/KiCad/STM32MP151DAC1.lib)(options "")(descr ""))
+  (lib (name MP1XA)(type Legacy)(uri ${KIPRJMOD}/MP1XA.lib)(options "")(descr ""))
+)

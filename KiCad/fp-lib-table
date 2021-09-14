@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name STM32MP151DAC1)(type Legacy)(uri C:/Users/rohan/Downloads/LIB_STM32MP151DAC1/STM32MP151DAC1/KiCad/STM32MP151DAC1.mod)(options "")(descr "")(disabled))
+  (lib (name STM32MP151CAB3)(type Legacy)(uri C:/Users/rohan/Downloads/LIB_STM32MP151CAB3/STM32MP151CAB3/KiCad/STM32MP151CAB3.mod)(options "")(descr "")(disabled))
+  (lib (name W63CH2MBVACE)(type Legacy)(uri C:/Users/rohan/Downloads/LIB_W63CH2MBVACE/W63CH2MBVACE/KiCad/W63CH2MBVACE.mod)(options "")(descr "")(disabled))
+  (lib (name AS4C256M16D3LC-12BCN)(type Legacy)(uri C:/Users/rohan/Downloads/LIB_AS4C256M16D3LC-12BCN/AS4C256M16D3LC-12BCN/KiCad/AS4C256M16D3LC-12BCN.mod)(options "")(descr "")(disabled))
+  (lib (name MP1XA)(type KiCad)(uri ${KIPRJMOD}/MP1XA.pretty)(options "")(descr ""))
+)

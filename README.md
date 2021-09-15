@@ -1,7 +1,7 @@
 # MP1XA
 MP1XA Board specs: 
 
-* CPU - STM32MP151DAC1 - ARMv7-A  :heavy_check_mark:
-* RAM - AS4C256M16D3LC-12BCN - DDR3L RAM :heavy_check_mark:
+* CPU - STM32MP151DAC1(TFBGA361) - ARMv7-A  
+* RAM - AS4C256M16D3LC-12BCN - DDR3L RAM
 * DDR Termination - STPMIC1EPQR - Not sure
 * 
